@@ -1,0 +1,12 @@
+1/ Calculate Age from Birthday column in Excel:
+
+=YEARFRAC(Birthday, TODAY())
+
+Return the number of years
+
+2/ Calculate the Death Age:
+
+Enter the date of birth (DOB) in a cell, e.g., A1.
+Enter the date of death (DOD) in a cell, e.g., B1.
+Use the formula: =DATEDIF(A1,B1,"y")
+
