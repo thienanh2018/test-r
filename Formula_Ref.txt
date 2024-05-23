@@ -1,5 +1,0 @@
-Calculate Age from Birthday column in Excel:
-
-=YEARFRAC(Birthday, TODAY())
-
-Return the number of years
